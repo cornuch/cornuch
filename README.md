@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cornuch
+- 👀 I’m interested in data science and education
+- 🌱 I’m currently learning data science at the university Lyon 2
+- 💞️ I’m looking to collaborate on projects in R and Python
+- 📫 How to reach me https://www.linkedin.com/in/christelle-cornu-67972b10a/
